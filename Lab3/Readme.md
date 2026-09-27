@@ -72,7 +72,7 @@ The server confirms individual thread names, client IPs, ports, and concurrent a
 
 ### 2. Client 1 Terminal
 Bidirectional messaging exchange:
-![image alt](https://github.com/ahsanafzal864-crypto/FA23-BSE-005-Ahsan-PDC/blob/main/Lab3/pics/Screenshot%202026-09-27%20202403.png?raw=true)
+![image alt](https://github.com/ahsanafzal864-crypto/FA23-BSE-005-Ahsan-PDC/blob/main/Lab3/pics/Screenshot%202026-09-27%20202347.png?raw=true)
 
 ### 3. Client 2 Terminal
 Simultaneous message exchange running parallel to Client 1:
