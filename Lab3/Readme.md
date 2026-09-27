@@ -76,7 +76,7 @@ Bidirectional messaging exchange:
 
 ### 3. Client 2 Terminal
 Simultaneous message exchange running parallel to Client 1:
-![image alt](https://github.com/ahsanafzal864-crypto/FA23-BSE-005-Ahsan-PDC/blob/main/Lab3/pics/Screenshot%202026-09-27%20202403.png?raw=true)
+![image alt](https://github.com/ahsanafzal864-crypto/FA23-BSE-005-Ahsan-PDC/blob/main/Lab3/pics/Screenshot%202026-09-27%20202331.png?raw=true)
 
 ---
 
