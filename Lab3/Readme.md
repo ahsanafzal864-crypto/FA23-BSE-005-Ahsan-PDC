@@ -68,15 +68,15 @@ Type any text in either client window to send messages to the server. Type `exit
 
 ### 1. Server Terminal (Multi-Threaded Handling)
 The server confirms individual thread names, client IPs, ports, and concurrent active connections:
-https://github.com/ahsanafzal864-crypto/FA23-BSE-005-Ahsan-PDC/blob/main/Lab3/pics/Screenshot%202026-09-27%20202403.png?raw=true
+![image alt](https://github.com/ahsanafzal864-crypto/FA23-BSE-005-Ahsan-PDC/blob/main/Lab3/pics/Screenshot%202026-09-27%20202403.png?raw=true)
 
 ### 2. Client 1 Terminal
 Bidirectional messaging exchange:
-![Client 1 Output](screenshots/client1_output.png)
+![image alt](https://github.com/ahsanafzal864-crypto/FA23-BSE-005-Ahsan-PDC/blob/main/Lab3/pics/Screenshot%202026-09-27%20202403.png?raw=true)
 
 ### 3. Client 2 Terminal
 Simultaneous message exchange running parallel to Client 1:
-![Client 2 Output](screenshots/client2_output.png)
+![image alt](https://github.com/ahsanafzal864-crypto/FA23-BSE-005-Ahsan-PDC/blob/main/Lab3/pics/Screenshot%202026-09-27%20202403.png?raw=true)
 
 ---
 
